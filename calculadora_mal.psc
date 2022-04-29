@@ -1,5 +1,5 @@
 Proceso calculadora
-	Escribir "Escriba el primer numero"
+	Escribir "Escriba el"
 	Leer numero1
 	Escribir "Escriba el otro numero"
 	Leer numero2
